@@ -2,7 +2,9 @@
 Hey my name is Oussama,and i'm a JS FullStack Web Developer.
 
 - 📍 Based in Lille, France.
-- 🔭 I’m currently working on a JIRA-like board using ReactJs and NestJs as a side project whenever i got the time to (u can find the repo in my github 😉).
+- 🔭 I’m currently working on two side-projects whenever i got the time to (u can find the repos in my github 😉):
+  +  a JIRA-like board using ReactJs and NestJs.
+  +  a "Angular/React" project structure scaffolder in ReactJs.
 - 🌱 I’m currently learning NestJS , Redux and Kubernetes.
 - 🥅 My Goals: Learn AWS :)
 - 📫 How to reach me: [oelmounkad@gmail.com](mailto:oelmounkad@gmail.com)
