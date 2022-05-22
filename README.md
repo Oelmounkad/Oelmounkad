@@ -25,6 +25,15 @@ Hey my name is Oussama,and i'm a JS FullStack Web Developer.
 
 <br />
 
+### Connect with me:
+
+[![img_contact](./img/linkedin-light.svg)](https://www.linkedin.com/in/oussamaelmounkad/#gh-light-mode-only)
+[![img_contact](./img/linkedin-dark.svg)](https://www.linkedin.com/in/oussamaelmounkad/#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![img_contact](./img/instagram-light.svg)](https://www.instagram.com/oelmounkad#gh-light-mode-only)
+[![img_contact](./img/instagram-dark.svg)](https://www.instagram.com/oelmounkad#gh-dark-mode-only)
+
+
 <!-- Metrics -->
 ### ⭐ GitHub Stats
 
