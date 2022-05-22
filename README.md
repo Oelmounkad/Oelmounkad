@@ -6,7 +6,7 @@ Hey my name is Oussama,and i'm a JS FullStack Web Developer.
   +  a JIRA-like board using ReactJs and NestJs.
   +  a "Angular/React" project structure scaffolder in ReactJs.
 - 🌱 I’m currently learning NestJS , Redux and Kubernetes.
-- 🥅 My Goals: Learn AWS :)
+- 🥅 My Goals: Learn cloud computing :)
 - 📫 How to reach me: [oelmounkad@gmail.com](mailto:oelmounkad@gmail.com)
 
 ### Languages and Tools:
