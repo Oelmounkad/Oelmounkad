@@ -1,5 +1,5 @@
 # Oussama ELMOUNKAD
-Hey my name is Oussama,and i'm a JS FullStack Web Developer.
+Hey my name is Oussama, and i'm a JS FullStack Web Developer.
 
 - 📍 Based in Lille, France.
 - 🔭 I’m currently working on two side-projects whenever i got the time to (u can find the repos in my github 😉):
