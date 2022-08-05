@@ -2,7 +2,7 @@
 Hey my name is Oussama, and i'm a JS FullStack Web Developer.
 
 - 📍 Based in Lille, France.
-- 🔭 I’m currently working on a side project whenever i got the time to 😉:
+- 🔭 I’m currently working on a side project whenever i got the time to:
   +  a "Angular/React" project structure scaffolder in ReactJs / Zustand (https://github.com/Oelmounkad/react-angular-project-structure-scaffolder).
 - 🌱 I’m currently learning NestJS , and some react libraries.
 - 🥅 My Goals: Learn cloud computing :)
