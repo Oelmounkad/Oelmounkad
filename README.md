@@ -1,4 +1,4 @@
-<p><img align="right" src="https://github.com/Oelmounkad/Oelmounkad/blob/main/img/gif.gif" alt="oelmounkad" width="500px" /></p>
+<p><img align="right" src="https://github.com/Oelmounkad/Oelmounkad/blob/main/img/gif.gif" alt="oelmounkad" width="400px" /></p>
 
 # Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>, i'm Oussama ELMOUNKAD:
 
