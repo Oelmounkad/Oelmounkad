@@ -2,7 +2,8 @@
 
 # Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>, i'm Oussama ELMOUNKAD:
 
-📍 Based in Lille, France. <br>🔭 I’m currently working on personal projects whenever i got the time to :)<br>🌱 I’m currently learning NestJS , and some react libraries.<br>🥅 My Goals: Learn cloud computing :)<br>📫 How to reach me: oelmounkad@gmail.com
+📍 Based in Lille, France. <br>🔭 I’m currently working on personal projects whenever i got the time to :)<br>🌱 I’m currently learning NestJS , and some react libraries.<br>🥅 My Goals: Learn cloud computing :)<br>📫 How to reach me: oelmounkad@gmail.com<br><br>
+[![](https://visitcount.itsvg.in/api?id=oelmounkad&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## Connect with me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/oelmounkad) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/oussamaelmounkad) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/8324862) 
@@ -38,6 +39,4 @@
 ![](https://github-profile-trophy.vercel.app/?username=oelmounkad&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=oelmounkad&icon=0&color=0)](https://visitcount.itsvg.in)
-
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/oelmounkad) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/oelmounkad) 
