@@ -1,6 +1,6 @@
 <p><img align="right" src="https://github.com/Oelmounkad/Oelmounkad/blob/main/img/gif.gif" alt="oelmounkad" /></p>
 
-# 💫 About Me:
+# Hi👋, i'm Oussama ELMOUNKAD:
 📍 Based in Lille, France.<br>🔭 I’m currently working on personal projects whenever i got the time to :)<br>🌱 I’m currently learning NestJS , and some react libraries.<br>🥅 My Goals: Learn cloud computing :)<br>📫 How to reach me: oelmounkad@gmail.com
 
 
