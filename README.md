@@ -2,7 +2,7 @@
 
 # Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>, i'm Oussama ELMOUNKAD:
 
-📍 Based in Lille, France. <br>🔭 I’m currently working in a company and on personal projects whenever i got the time to :)<br>🌱 I’m currently learning NestJS , and some react libraries.<br>🥅 My Goals: Learn cloud computing :)<br>📫 How to reach me: oelmounkad@gmail.com<br><br>
+📍 Based in Lille, France. <br>🔭 I’m currently working in a company and on personal projects whenever i got the time to :)<br>🌱 I’m currently learning NextJS , Graphql APOLLO and some react libraries.<br>🥅 My Goals: Learn cloud computing :)<br>📫 How to reach me: oelmounkad@gmail.com<br><br>
 [![](https://visitcount.itsvg.in/api?id=oelmounkad&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## Connect with me:
