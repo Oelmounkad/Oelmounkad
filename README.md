@@ -5,7 +5,7 @@
 📍 Based in Lille, France. <br>🔭 I’m currently working in a company and on personal projects whenever i got the time to :)<br>🌱 I’m currently learning NextJS , Graphql APOLLO and some react libraries.<br>🥅 My Goals: Learn cloud computing :)<br>📫 How to reach me: oelmounkad@gmail.com<br><br>
 [![](https://visitcount.itsvg.in/api?id=oelmounkad&icon=0&color=0)](https://visitcount.itsvg.in)
 
-+ !!! I'm currently working on **Reactiform** a React/TS Library for managing forms, contact me if you want to contribute :) 
++ !!! I'm currently working on **Reactiform** a React/TS Library for managing forms, make sure to check it out
  https://github.com/Oelmounkad/reactiform !!!
 
 ## Connect with me:
